@@ -1,0 +1,95 @@
+baseURL = 'https://sanderors.com.br/'
+languageCode = 'pt-br'
+title = 'Sandero RS'
+theme = 'beautifulhugo'
+preserveTaxonomyNames = true
+paginate = 5
+
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Um site para entusiastas"
+  mainSections = ["post","posts"]
+  logo = "img/cropped-icone-192x192.png" # Expecting square dimensions
+  favicon = "img/cropped-icone-32x32.png"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+
+[[menu.main]]
+    name = "Posts"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "FAQ - Perguntas Frequentes"
+    url = "page/faq/"
+    weight = 2
+
+[[menu.main]]
+    name = "Sobre"
+    url = "page/sobre/"
+    weight = 4
+
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    weight = 3
+
+[[menu.main]]
+    parent = "tags"
+    name = "Tutoriais"
+    url = "/categories/tutorial/"
+    weight = 1
+
+[[menu.main]]
+    parent = "tags"
+    name = "Informações Técnicas"
+    url = "/categories/informações-técnicas-e-especificações/"
+    weight = 2
+
+[[menu.main]]
+    parent = "tags"
+    name = "Performance"
+    url = "/categories/performance/"
+    weight = 3
+
+[[menu.main]]
+    parent = "tags"
+    name = "Opinião"
+    url = "/categories/opinião"
+    weight = 4
+
+[[menu.main]]
+    parent = "tags"
+    name = "Encontros"
+    url = "/categories/encontros" 
+    weight = 5
+
+[[menu.main]]
+    parent = "tags"
+    name = "Ver todas"
+    url = "/categories/"
+    weight = 99
+
+[[menu.main]]
+   name = "Manual Sandero RS - Comunidade"
+   url = "/page/manual/"
+   weight = 5
+
+#[params]
+#  header_image = "img/home-bg-jeep.jpg"
+#  SEOTitle = "Sandero RS - Um site para entusiastas"
+#  description = "Site de dicas e tutoriais para o Sandero RS"
+#  keyword = "Sandero, Sandero RS, renault, dicas, tutoriais, renault sandero rs"
+
+#  image_404 = "img/404-bg.jpg"
+#  title_404 = " ERRROOOOUUUUUU"
+#  omit_categories = false
