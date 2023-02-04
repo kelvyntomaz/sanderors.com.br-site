@@ -52,8 +52,8 @@ Conforto: ☆☆☆
 
 
 
-![](https://sanderors.com/wp-content/uploads/2020/03/michelin-pilot-sport-4-test-and-review.jpg)
-![](https://sanderors.com/wp-content/uploads/2020/03/michelin-pilot-sport-4-test-and-review-3.jpg)
+![](michelin-pilot-sport-4-test-and-review.jpg)
+![](michelin-pilot-sport-4-test-and-review-3.jpg)
 ### **MOMO outrun M3**
 
 
@@ -94,8 +94,8 @@ Durabilidade: ☆☆☆ ☆
 Conforto: ☆☆☆☆
 
 
-![](https://sanderors.com/wp-content/uploads/2020/03/michelin-primacy-4-test-and-review-4.jpg)
-![](https://sanderors.com/wp-content/uploads/2020/03/michelin-primacy-4-test-and-review.jpg)
+![](michelin-primacy-4-test-and-review-4.jpg)
+![](michelin-primacy-4-test-and-review.jpg)
 ### Hankook Ventus Evo 2 V12
 
 
@@ -108,8 +108,8 @@ Conforto: ☆☆☆☆
 No custo benefício, os Hanhook Ventus EVO 2 parecem ser muito bons: custam substancialmente menos que os PS4, por exemplo. Possuem um bom grip no seco.
 
 
-![](https://sanderors.com/wp-content/uploads/2020/03/Hankook-Ventus-V12-evo2-K120-test-1.jpg)
-![](https://sanderors.com/wp-content/uploads/2020/03/Hankook-Ventus-V12-evo2-K120-test-wet.jpg)
+![](Hankook-Ventus-V12-evo2-K120-test-1.jpg)
+![](Hankook-Ventus-V12-evo2-K120-test-wet.jpg)
 Entrarão em breve nas avaliações desta lista:  
 
 

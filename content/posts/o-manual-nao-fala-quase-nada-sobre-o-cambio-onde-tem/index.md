@@ -13,14 +13,14 @@ O manual de fábrica do RS é bem falho. Falta muita informação. O pessoal do 
 **O RS usa o câmbio TL4.** Vão 1,9L nele.
 
 
-![](https://sanderors.com/wp-content/uploads/2020/03/image-3.png)
-Caso você queira saber mais, conseguimos em um manual gringo essas informações. [Anexamos ele em PDF. Clique aqui e procure pelo TL4.](https://sanderors.com/wp-content/uploads/2020/03/MR427MEGANE2.pdf)
+![](image-3.png)
+Caso você queira saber mais, conseguimos em um manual gringo essas informações. [Anexamos ele em PDF. Clique aqui e procure pelo TL4.](MR427MEGANE2.pdf)
 
 
-Outra coisa que o manual não informa é qual tipo de óleo usar. [O recomendado pelo manual gringo de óleos recomendados para modelo da Renault (clique para ver)](https://sanderors.com/wp-content/uploads/2020/03/Renault-Gearbox-Oils.pdf)  é o ELF 75w80.
+Outra coisa que o manual não informa é qual tipo de óleo usar. [O recomendado pelo manual gringo de óleos recomendados para modelo da Renault (clique para ver)](Renault-Gearbox-Oils.pdf)  é o ELF 75w80.
 
 
-![](https://sanderors.com/wp-content/uploads/2020/03/image-4.png)
+![](image-4.png)
 No grupo, foi recomendado pelo Bruno Ordones da Ordospec que, caso você faça um uso mais intenso do veículo, use Motul Gear Competition 75w140 (ou Valvoline). 
 
 

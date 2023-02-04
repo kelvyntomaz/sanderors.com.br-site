@@ -20,7 +20,7 @@ Recentemente, instalei no meu RS um Short Shifter desenvolvido aqui no Brasil pa
 O short shifter é uma peça essencial para melhorar a experiência de direção esportiva. Reduzindo a distância necessária para troca de marchas e deixando os engates mais precisos ela é um upgrade eficaz e rápido para transformar a dirigibilidade, mantendo a altura original da manopla como foi cuidadosamente pensada pela RenaultSport.
 
 
-* ![](https://sanderors.com/wp-content/uploads/2019/04/short.jpg)
+* ![](short.jpg)
 
 Quem curte carro sempre pensa em ganhar mais cavalos, mas o Short Shifter é um dos melhores investimentos em dinâmica que você pode colocar no RS. É tão incrível que faz todos que já tiveram se questionarem: “por que não vem assim de fábrica?”
 
@@ -40,7 +40,7 @@ O SS (short shifter. Irei escrever assim para não ficar repetindo.) da OrdoSpec
 Eu instalei com 25% de redução, mas já estou com muita vontade de mudar para 38%.
 
 
-* ![](https://sanderors.com/wp-content/uploads/2019/04/15327307_1277294545670795_9191764936657327535_n.jpg)Original x Short Shifter. Foto tirada do RS Groupe.
+* ![](15327307_1277294545670795_9191764936657327535_n.jpg)Original x Short Shifter. Foto tirada do RS Groupe.
 
 **TEM OUTROS BENEFÍCIOS ALÉM DE MUDAR A TOCADA?**
 
@@ -70,7 +70,7 @@ A instalação não é super complexa, mas é bem trabalhosa. Vários membros do
 Se você é de Curitiba, eu instalei o meu no [Box 1900 Serviços Automotivos.](http://box1900.com.br/)  
 
 
-* ![](https://sanderors.com/wp-content/uploads/2019/04/15319161_1277294549004128_1468454971299306834_n.jpg)
+* ![](15319161_1277294549004128_1468454971299306834_n.jpg)
 
 E AÍ, VALE?
 

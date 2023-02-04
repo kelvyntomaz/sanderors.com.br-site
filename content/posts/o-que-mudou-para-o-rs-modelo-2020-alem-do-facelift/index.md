@@ -16,7 +16,7 @@ Bom… como mudou a traseira apenas, nem sei se dá pra chamar de FACE lift. Tal
 3) Aviso do cinto no painel  
 4) Teto e colunas preto  
 5) Roda nova  
-![](https://sanderors.com/wp-content/uploads/2019/03/roda1080.jpg)
+![](roda1080.jpg)
 
 
 6) Pisca – 3 segundos ao tocar no comando  
@@ -29,13 +29,13 @@ Bom… como mudou a traseira apenas, nem sei se dá pra chamar de FACE lift. Tal
 
 
 13) Chave canivete  
-![](https://sanderors.com/wp-content/uploads/2020/03/chave.jpg)
+![](chave.jpg)
 
 
 14) Aerofólio preto  
 15) Imitação de acabamento em fibra de carbono na porta  
   
-![](https://sanderors.com/wp-content/uploads/2020/03/Renault-Sandero-RS-2020-6.jpg)
+![](Renault-Sandero-RS-2020-6.jpg)
 
 
 16) 4 airbags  
@@ -51,7 +51,7 @@ Bom… como mudou a traseira apenas, nem sei se dá pra chamar de FACE lift. Tal
 27) estrutura e espuma dos bancos  
 28) melhoria nos anéis sincronizadores do câmbio, conhecidos por serem um problema crônico do modelo  
 29) Cofre do motor não é mais pintado  
-![](https://sanderors.com/wp-content/uploads/2020/03/cofre.jpg)
+![](cofre.jpg)
 
 
 O post [O que mudou para o RS modelo 2020 além do facelift?](https://sanderors.com/o-que-mudou-para-o-rs-modelo-2020-alem-do-facelift/) apareceu primeiro em [Sandero RS](https://sanderors.com).

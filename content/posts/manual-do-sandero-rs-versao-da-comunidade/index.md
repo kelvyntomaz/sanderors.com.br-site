@@ -13,6 +13,6 @@ Temos um grupo de Whatsapp onde o pessoal discute questões técnicas do RS e �
 O grupo se uniu e montamos uma espécie de “manual alternativo” com todas essas dúvidas. Clique na imagem abaixo ou acesse pelo link: <https://1drv.ms/w/s!Ag4hLJA_TxCrg7sGqxolCJbGXWA5YQ?e=wawT4i>
 
 
-[![](https://sanderors.com/wp-content/uploads/2020/05/mockup-revista-1.png)](https://1drv.ms/w/s!Ag4hLJA_TxCrg7R_v7x-m03HeS8IGw?e=urbO03)
+[![](mockup-revista-1.png)](https://1drv.ms/w/s!Ag4hLJA_TxCrg7R_v7x-m03HeS8IGw?e=urbO03)
 O post [Manual do Sandero RS – versão da comunidade](https://sanderors.com/manual-do-sandero-rs-versao-da-comunidade/) apareceu primeiro em [Sandero RS](https://sanderors.com).
 

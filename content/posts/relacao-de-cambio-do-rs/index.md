@@ -10,12 +10,12 @@ bigimg: [{src: 'Relação'}]
 E comparando com o câmbio da Duster. Material de autoria do Giovanni Tani.
 
 
-* ![](https://sanderors.com/wp-content/uploads/2020/06/Relação-de-Marchas-Alongadas-Sandero-RS-FHD-0.94-1024x576.jpg)
-* ![](https://sanderors.com/wp-content/uploads/2020/06/Relação-de-Marchas-Sandero-RS-FHD-1024x576.jpg)
-* ![](https://sanderors.com/wp-content/uploads/2020/06/Relação-de-Marchas-Sandero-RS-vs-Duster-1024x576.jpg)
+* ![](Relação-de-Marchas-Alongadas-Sandero-RS-FHD-0.94-1024x576.jpg)
+* ![](Relação-de-Marchas-Sandero-RS-FHD-1024x576.jpg)
+* ![](Relação-de-Marchas-Sandero-RS-vs-Duster-1024x576.jpg)
 
-![](https://sanderors.com/wp-content/uploads/2020/06/Relação-de-Marchas-Sandero-RS-FHD-1024x576.jpg)
-![](https://sanderors.com/wp-content/uploads/2020/06/Relação-de-Marchas-Alongadas-Sandero-RS-FHD-0.94-1024x576.jpg)
-![](https://sanderors.com/wp-content/uploads/2020/06/Relação-de-Marchas-Sandero-RS-vs-Duster-1024x576.jpg)
+![](Relação-de-Marchas-Sandero-RS-FHD-1024x576.jpg)
+![](Relação-de-Marchas-Alongadas-Sandero-RS-FHD-0.94-1024x576.jpg)
+![](Relação-de-Marchas-Sandero-RS-vs-Duster-1024x576.jpg)
 O post [Relação de câmbio do RS](https://sanderors.com/relacao-de-cambio-do-rs/) apareceu primeiro em [Sandero RS](https://sanderors.com).
 

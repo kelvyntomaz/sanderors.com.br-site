@@ -14,36 +14,36 @@ Ordospec R37
 ------------
 
 
-* ![](https://sanderors.com/wp-content/uploads/2020/06/102681986_10158606428707342_1052080516373284022_n.jpg)
-* ![](https://sanderors.com/wp-content/uploads/2020/06/102868825_3178709282188118_3726460135158198549_n.jpg)
-* ![](https://sanderors.com/wp-content/uploads/2020/06/102921010_3337020759643508_425629933851015699_n.jpg)
-* ![](https://sanderors.com/wp-content/uploads/2020/06/102360733_3238003796257865_1652086080423089345_n.jpg)
-* ![](https://sanderors.com/wp-content/uploads/2020/06/102764610_3281895741858291_7449881724009655421_o.jpg)
-* ![](https://sanderors.com/wp-content/uploads/2020/06/danilo.jpg)
+* ![](102681986_10158606428707342_1052080516373284022_n.jpg)
+* ![](102868825_3178709282188118_3726460135158198549_n.jpg)
+* ![](102921010_3337020759643508_425629933851015699_n.jpg)
+* ![](102360733_3238003796257865_1652086080423089345_n.jpg)
+* ![](102764610_3281895741858291_7449881724009655421_o.jpg)
+* ![](danilo.jpg)
 
 Eibach Pro Kit
 --------------
 
 
-* ![](https://sanderors.com/wp-content/uploads/2020/06/102852357_980592352397456_196139529947576869_n.jpg)
-* ![](https://sanderors.com/wp-content/uploads/2020/06/103623510_3933934076649209_7175167717871374137_n.jpg)
-* ![](https://sanderors.com/wp-content/uploads/2020/06/103589419_4215911445100640_4218242239782955159_o.jpg)
-* ![](https://sanderors.com/wp-content/uploads/2020/06/20200605_141418-1024x498.jpg)
-* ![](https://sanderors.com/wp-content/uploads/2020/06/dino.jpg)
+* ![](102852357_980592352397456_196139529947576869_n.jpg)
+* ![](103623510_3933934076649209_7175167717871374137_n.jpg)
+* ![](103589419_4215911445100640_4218242239782955159_o.jpg)
+* ![](20200605_141418-1024x498.jpg)
+* ![](dino.jpg)
 
 Molas Impacto
 -------------
 
 
-* ![](https://sanderors.com/wp-content/uploads/2020/06/102713629_2011722905639398_3239469827163993181_n.jpg)
-* ![](https://sanderors.com/wp-content/uploads/2020/06/102769252_3102468396513507_5668836533718777792_n.jpg)
+* ![](102713629_2011722905639398_3239469827163993181_n.jpg)
+* ![](102769252_3102468396513507_5668836533718777792_n.jpg)
 
 Ordospec Street
 ---------------
 
 
-* ![](https://sanderors.com/wp-content/uploads/2020/06/102407684_3290914857609550_8575862680313219656_n.jpg)
-* ![](https://sanderors.com/wp-content/uploads/2020/06/3e6c0e8d-6fef-483b-9be3-ec83ebb6fde1-1024x814.jpg)
+* ![](102407684_3290914857609550_8575862680313219656_n.jpg)
+* ![](3e6c0e8d-6fef-483b-9be3-ec83ebb6fde1-1024x814.jpg)
 
 Ah! Assista também o vídeo do Victor da Ayuso Garage com um breve comparativo dessas molas no RS:
 

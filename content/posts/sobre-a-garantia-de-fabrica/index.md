@@ -39,7 +39,7 @@ o atual momento, não me arrependo. Os problemas que a concessionária causou
 foram todos sanados. O carro está bem melhor do que na época.
 
 
-![Só se vive uma vez e a vida é muito curto para se censurar por garantia que não te respeita.](https://sanderors.com/wp-content/uploads/2020/03/20200101_143457-1024x576.jpg)Só se vive uma vez e a vida é muito curto para se censurar por garantia que não te respeita.
+![Só se vive uma vez e a vida é muito curto para se censurar por garantia que não te respeita.](20200101_143457-1024x576.jpg)Só se vive uma vez e a vida é muito curto para se censurar por garantia que não te respeita.
 Tá. Mas qual ponto? Tá dizendo que eu, leitor, devo abrir
 mão da concessionária?
 

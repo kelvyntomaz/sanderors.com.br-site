@@ -14,6 +14,6 @@ Tá perdido para instalar aquele som usando o multimídia original? O Moura, lá
 Fios rosas = positivos**
 
 
-![](https://sanderors.com/wp-content/uploads/2020/09/WhatsApp-Image-2020-09-20-at-22.44.42-1024x466.jpeg)
+![](WhatsApp-Image-2020-09-20-at-22.44.42-1024x466.jpeg)
 O post [Mapa do soquete de saída do medianav](https://sanderors.com/mapa-do-soquete-de-saida-do-medianav/) apareceu primeiro em [Sandero RS](https://sanderors.com).
 

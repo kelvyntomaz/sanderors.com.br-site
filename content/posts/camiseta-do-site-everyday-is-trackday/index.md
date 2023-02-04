@@ -21,6 +21,6 @@ Botamos o preço de forma que não ganhamos praticamente nada. Até pensamos em 
 Nunca usamos esse Colab55 antes, mas veio bem recomendao. Teremos, em breve, também canecas e outras estampas. Lembrando novamente que eu não produzo nada além da arte, ok? Tudo fica por conta deles.
 
 
-![](https://sanderors.com/wp-content/uploads/2020/08/camiseta.jpg)
+![](camiseta.jpg)
 O post [Camiseta do site! Everyday is trackday!](https://sanderors.com/camiseta-do-site-everyday-is-trackday/) apareceu primeiro em [Sandero RS](https://sanderors.com).
 

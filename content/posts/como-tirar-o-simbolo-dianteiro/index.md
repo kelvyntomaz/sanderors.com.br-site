@@ -7,7 +7,7 @@ categories: [ Tutorial ]
 bigimg: [{src: '68969900_2323557357765420_8224991624585805824_n.jpg'}]
 ---
 
-![](https://sanderors.com/wp-content/uploads/2019/11/simbolofrente.jpg)   
+![](simbolofrente.jpg)   
 Por essa foto se vê o local das travas do símbolo, com cuidado dá para colocar uma chave de fenda e soltar a trava. Cuidado para não quebrar. Autoria deste “tutorial” não é minha.
 Vídeo abaixo feito pelo Matheus Wolkning, lá do grupo:
 

@@ -11,7 +11,7 @@ Uma das coisas peculiares do RS é que ele não acende o farolete “pingo”, e
 farol de rodagem diurna em LED.   
 Mas é possível ligá-los. O Tutorial é do Andrey Maiorky, lá do RS Groupe.  
   
-Clique [aqui para ler o tutorial (PDF)](https://sanderors.com/wp-content/uploads/2019/03/tutorial-pingo-rs-1.pdf).
+Clique [aqui para ler o tutorial (PDF)](tutorial-pingo-rs-1.pdf).
 
 
 O post [Acender o “pingo” do farol (meia luz)](https://sanderors.com/acender-o-pingo-do-farol-meia-luz/) apareceu primeiro em [Sandero RS](https://sanderors.com).

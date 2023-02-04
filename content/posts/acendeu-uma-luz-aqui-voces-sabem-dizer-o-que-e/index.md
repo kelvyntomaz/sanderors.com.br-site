@@ -10,12 +10,12 @@ bigimg: [{src: 'Luzes-1.jpg'}]
 Taí algo que aparece com frequencia nos grupos do Sandero RS. Em 80% das vezes, são essas luzes que aparecem:
 
 
-![](https://sanderors.com/wp-content/uploads/2020/03/Luzes.jpg)
+![](Luzes.jpg)
 Conforme o manual explica, isso é o modo de segurança:  
 
 
 
-![](https://sanderors.com/wp-content/uploads/2020/03/image.png)
+![](image.png)
 Mas calma. Na maior parte das vezes, isso acontece porque você foi… barbeiro.  
 Você errou marcha? Engatou uma 2ª em vez de 4ª…? Entrou em modo de segurança.  
 Desligue, aguarde 15 segundos e ligue novamente que deve passar. Se persistir, procure uma oficina ou a assistência técnica.  

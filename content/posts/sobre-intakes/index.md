@@ -29,8 +29,8 @@ Mas, nem por isso, os proprietários deixaram de se aventurar nos seus próprios
 Os projetos mais comuns esticam o duto da admissão de ar até ali próximo do parachoque. Como os das imagens abaixo:
 
 
-* ![](https://sanderors.com/wp-content/uploads/2019/04/intake1.jpg)
-* ![](https://sanderors.com/wp-content/uploads/2019/04/intake2.jpg)
+* ![](intake1.jpg)
+* ![](intake2.jpg)
 
 **FUNCIONA?**
 
@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=kbNOJSecRdg
 Bom, você pode tentar fazer um projeto que tenha um escudo de calor e aproveite algo similar ao duto original, como abaixo:
 
 
-![](https://sanderors.com/wp-content/uploads/2019/04/s-l300.jpg)
+![](s-l300.jpg)
 
 
 Repare como o filtro fica dentro de uma caixa que o isola do resto do calor do motor. Esse é o de uma BMW Z4. É possível fazer algo parecido em qualquer carro usando chapas de alumínio.
@@ -67,8 +67,8 @@ Repare como o filtro fica dentro de uma caixa que o isola do resto do calor do m
 Ou você pode fazer algo que pegue mesmo sem ganho algum, só pelo ganho do ronco por tirar restrição da caixa do filtro. Neste caso, tem um pessoal que faz praticamente uma “short ram intake” ou “warm air intake”: coloca o filtro direto no tubo original e prende com algumas braçadeiras.
 
 
-* ![](https://sanderors.com/wp-content/uploads/2019/04/SRI-576x1024.jpg)Gambiarra mestre.
-* ![](https://sanderors.com/wp-content/uploads/2019/04/SRI2-576x1024.jpg)Braçadeira Hellerman, mesmo. Vulgo “enforca gato”.
+* ![](SRI-576x1024.jpg)Gambiarra mestre.
+* ![](SRI2-576x1024.jpg)Braçadeira Hellerman, mesmo. Vulgo “enforca gato”.
 
 Se você não estiver disposto a isso, talvez a melhor solução deve ser os filtros de ar inbox. Temos os da K&N (modelo K&n 33-3007) ou o da RS Filtros [(só clicar para o link direto do site deles)](https://www.rsfiltros.com.br/renault/2-0/filtro-de-ar-alta-performance-renault-sandero-rs-2-0-2015).
 

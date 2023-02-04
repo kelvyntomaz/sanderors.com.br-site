@@ -36,7 +36,7 @@ Temperatura externa no cluster do painel.
 Certificar-se que o conector OBDII está conectado no carro e pareado/ligado com o computador.
 
 
-[![⬇](https://s.w.org/images/core/emoji/14.0.0/72x72/2b07.png)](https://drive.google.com/file/d/1utfzgcIWyLH77LW5LKCMgWCP23QUeZ8P/view?usp=sharing) [Baixar aqui e abrir o programa “ddt4all Dacia”](https://sanderors.com/wp-content/uploads/2021/05/ddt4all.zip)
+[![⬇](https://s.w.org/images/core/emoji/14.0.0/72x72/2b07.png)](https://drive.google.com/file/d/1utfzgcIWyLH77LW5LKCMgWCP23QUeZ8P/view?usp=sharing) [Baixar aqui e abrir o programa “ddt4all Dacia”](ddt4all.zip)
 
 
 Selecionar “COM4” ou “COM6”

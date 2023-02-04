@@ -10,10 +10,10 @@ bigimg: [{src: '1.png'}]
 O Vanderlei, proprietário o [@white.rs047](http://instagram.com/white.rs047) no instagram, fez um tutorial visual de como desmontar o Spoiler. Muito prático.
 
 
-![](https://sanderors.com/wp-content/uploads/2020/06/1-576x1024.png)Primeiro de tudo, remova com cuidado para não marcar, usando uma espátula, as tampas laterais. Em seguida, remova os dois parafusos contidos dentro, apontados neste local.
-![](https://sanderors.com/wp-content/uploads/2020/06/2-576x1024.png)Em seguida, abra a tampa do porta malas e, por dentro, remova estes dois parafusos.
-* ![](https://sanderors.com/wp-content/uploads/2020/06/3-576x1024.png)
-* ![](https://sanderors.com/wp-content/uploads/2020/06/4-1024x576.png)
+![](1-576x1024.png)Primeiro de tudo, remova com cuidado para não marcar, usando uma espátula, as tampas laterais. Em seguida, remova os dois parafusos contidos dentro, apontados neste local.
+![](2-576x1024.png)Em seguida, abra a tampa do porta malas e, por dentro, remova estes dois parafusos.
+* ![](3-576x1024.png)
+* ![](4-1024x576.png)
 
 Por último, ele é preso por presilhas de pressão, similares às usadas em peças de forramento do interior do carro. Retire forçando com a espátula de nylon. 
 
