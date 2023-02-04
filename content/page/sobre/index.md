@@ -2,7 +2,7 @@
 title: Sobre o Site
 ---
 
-Esse site foi iniciado a partir da finalização do site original: sandeirors.com, foi feito um crawler do site e disponibilizado aqui pelo [Kelvyn Tomaz](https://kelvyn.com.br)
+Esse site foi iniciado a partir da finalização do site original: sandeirors.com, foi feito um crawler do site e disponibilizado aqui pelo [Kelvyn Tomaz](https://www.kelvyn.com.br)
 
 Abaixo o sobre do site antigo:
 
