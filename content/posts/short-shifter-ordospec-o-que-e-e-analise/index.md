@@ -4,7 +4,7 @@ subtitle: 'Saiba mais sobre uma das melhores modificações disponíveis para o 
 date: '2019-04-14T16:36:49'
 author: 'eduardoprox'
 categories: [ Performance ]
-image: 'short.jpg'
+bigimg: [{src: 'short.jpg'}]
 ---
 
 Lá no nosso FAQ postamos um link para um vídeo da Donut Media em que eles falam de modificações nas quais vale você investir seu dinheiro. [Uma das menções é o short shifter (só clicar aqui para ver. Em inglês)](https://youtu.be/0D8sRho9tM0?t=296).

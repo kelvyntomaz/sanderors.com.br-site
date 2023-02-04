@@ -4,7 +4,7 @@ subtitle: 'Dicas simples do que apertar para reduzir alguns barulhos chatos no p
 date: '2020-09-01T22:22:59'
 author: 'eduardoprox'
 categories: [ Tutorial ]
-image: 'painel.jpg'
+bigimg: [{src: 'painel.jpg'}]
 ---
 
 

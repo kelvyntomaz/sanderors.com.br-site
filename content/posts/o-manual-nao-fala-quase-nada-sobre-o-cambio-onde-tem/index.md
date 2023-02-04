@@ -4,7 +4,7 @@ subtitle: 'Que tipo de óleo usar? Quantos litros vão? Qual modelo?'
 date: '2020-03-20T00:47:35'
 author: 'eduardoprox'
 categories: [ Câmbio ]
-image: 'cambio.png'
+bigimg: [{src: 'cambio.png'}]
 ---
 
 O manual de fábrica do RS é bem falho. Falta muita informação. O pessoal do grupo técnico do RS conseguiu bastante informação em sites e manuais de fora do país.

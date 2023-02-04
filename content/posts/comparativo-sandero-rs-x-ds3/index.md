@@ -4,7 +4,7 @@ subtitle: 'São carros com um nível de requinte e custos diferentes. Mas, que c
 date: '2020-05-31T01:26:44'
 author: 'eduardoprox'
 categories: [ Opinião ]
-image: 'hqdefault.jpg'
+bigimg: [{src: 'hqdefault.jpg'}]
 ---
 
 São carros com um nível de requinte e custos diferentes. Mas, que comparando zero e usado, podem bater de frente. Quais os prós e contras de cada um? Veja mais no vídeo abaixo.

@@ -4,7 +4,7 @@ subtitle: 'Flatout fala um pouco mais sobre o projeto RS200.'
 date: '2019-07-03T13:08:03'
 author: 'eduardoprox'
 categories: [ Informações técnicas e especificações ]
-image: 'flatout.jpg'
+bigimg: [{src: 'flatout.jpg'}]
 ---
 
 Já falamos no FAQ e em outros locais sobre preparação e até sobre o projeto RS200, da Ordospec. O “Sandero mais rápido do mundo”, que fez bonito nos tempos em interlagos. Nesta semana, o Flatout fez um vídeo detalhando sobre o projeto e seu uso “no mundo real”.  

@@ -4,7 +4,7 @@ subtitle: 'Votadas e escolhidas pelo grupo do Sandero RS Clube.'
 date: '2020-08-19T12:25:59'
 author: 'eduardoprox'
 categories: [ Opinião ]
-image: 'avaliacoes2.png'
+bigimg: [{src: 'avaliacoes2.png'}]
 ---
 
 Tá pensando em comprar um RS? Perguntamos lá no grupo do [Renault Sandero RS Clube](https://www.facebook.com/groups/sanderorsclube) quais eles consideram as melhores avaliações em vídeo do panderão. Separamos as mais votadas e citadas e juntamos aqui neste post!

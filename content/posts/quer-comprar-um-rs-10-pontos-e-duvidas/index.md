@@ -4,7 +4,7 @@ subtitle: 'Toooodo dia aparece nos grupo alguém pensando em comprar com as mesm
 date: '2020-05-31T01:03:58'
 author: 'eduardoprox'
 categories: [ Informações técnicas e especificações ]
-image: 'capavideo.jpg'
+bigimg: [{src: 'capavideo.jpg'}]
 ---
 
 Toooodo dia aparece nos grupo alguém pensando em comprar com as mesmas dúvidas. Dúvidas que todos que pensam em comprar um Sandero RS perguntam nos grupos de Facebook e Whatsapp. Agora tem um vídeo no youtube para facilitar essas respostas! Se você quiser, está ao final do post. Ou, pode pular para um dos tópicos específicos:

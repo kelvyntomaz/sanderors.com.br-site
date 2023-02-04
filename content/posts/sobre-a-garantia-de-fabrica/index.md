@@ -4,7 +4,7 @@ subtitle: 'Algumas considerações sobre os tais 3 anos de garantia.'
 date: '2020-03-01T14:36:21'
 author: 'eduardoprox'
 categories: [ Opinião ]
-image: 'formula2.jpg'
+bigimg: [{src: 'formula2.jpg'}]
 ---
 
 Eu hesitei muito em modificar meu RS. Acredito que essa seja

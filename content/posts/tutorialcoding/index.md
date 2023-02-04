@@ -4,7 +4,7 @@ subtitle: 'Um tutorial que permite seta piscar 3x, desvincular limpador traseiro
 date: '2021-05-30T15:17:24'
 author: 'eduardoprox'
 categories: [ Tutorial ]
-image: 'coding.png'
+bigimg: [{src: 'coding.png'}]
 ---
 
 O Jean Bublitz montou um tutorial para você mexer no coding e mudar/habilitar. Só estamos compartilhando o conteúdo, mas o crédito é todo dele. (Ele traduziu uma porrada de fórum turco pra chegar nisso.)  

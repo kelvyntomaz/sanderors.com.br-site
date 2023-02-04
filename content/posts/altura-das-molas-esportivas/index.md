@@ -4,7 +4,7 @@ subtitle: 'Quer saber como fica visualmente cada uma das molas? Não precisa pro
 date: '2020-06-07T21:26:05'
 author: 'eduardoprox'
 categories: [ Suspensão ]
-image: '101532094_2011722015639487_6822837285058628666_n-1.jpg'
+bigimg: [{src: '101532094_2011722015639487_6822837285058628666_n-1.jpg'}]
 ---
 
 Sempre aparece alguém pedindo foto de alguém que tenha alguma mola, para saber como fica. Para facilitar sua vida, fizemos uma galera com as fotos de cada uma delas.

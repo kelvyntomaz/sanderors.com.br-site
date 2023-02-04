@@ -4,7 +4,7 @@ subtitle: 'Print 🖨 PDF 📄 eBook 📱Rondando em um carro com suspensão dur
 date: '2019-03-18T23:10:31'
 author: 'eduardoprox'
 categories: [ Informações técnicas e especificações ]
-image: 'roda1080.jpg'
+bigimg: [{src: 'roda1080.jpg'}]
 ---
 
 Rondando em um carro com suspensão dura, aro 17 e pneu perfil fino, é fácil pegar os buracos do nosso brasilzão e desbalancear as rodas.

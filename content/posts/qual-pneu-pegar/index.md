@@ -4,7 +4,7 @@ subtitle: 'Em dúvida sobre quais pneus pegar? Aqui falamos de algumas das opç�
 date: '2019-04-14T16:10:23'
 author: 'eduardoprox'
 categories: [ Informações técnicas e especificações ]
-image: '20150914_125332_2.jpg'
+bigimg: [{src: '20150914_125332_2.jpg'}]
 ---
 
 ##### **Último Update: 01/03/2020**

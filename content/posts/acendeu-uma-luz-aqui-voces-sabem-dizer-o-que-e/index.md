@@ -4,7 +4,7 @@ subtitle: 'Bom... a gente explica. Mas vale ler o seu manual.'
 date: '2020-03-01T17:40:43'
 author: 'eduardoprox'
 categories: [ Outras dúvidas ]
-image: 'Luzes-1.jpg'
+bigimg: [{src: 'Luzes-1.jpg'}]
 ---
 
 Taí algo que aparece com frequencia nos grupos do Sandero RS. Em 80% das vezes, são essas luzes que aparecem:

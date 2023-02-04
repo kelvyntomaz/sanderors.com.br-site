@@ -4,7 +4,7 @@ subtitle: 'Tutorial simples e visual em 6 passos.'
 date: '2020-08-17T20:01:14'
 author: 'eduardoprox'
 categories: [ Tutorial ]
-image: '6.jpeg'
+bigimg: [{src: '6.jpeg'}]
 ---
 
 **1º passo:** se for do lado do motorista, retirar o macaco, soltando a rosca destacada na imagem.

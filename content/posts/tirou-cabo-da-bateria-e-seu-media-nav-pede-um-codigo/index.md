@@ -4,7 +4,7 @@ subtitle: 'Agora seu media NAV não liga? É simples.'
 date: '2020-03-18T12:38:03'
 author: 'eduardoprox'
 categories: [ Informações técnicas e especificações ]
-image: 'medianav2.jpg'
+bigimg: [{src: 'medianav2.jpg'}]
 ---
 
 A Renault tem uma URL onde você pode consultar o código, **[aqui.](https://contato.renault.com.br/solicitacao/codigo-radio/)**

@@ -4,7 +4,7 @@ subtitle: 'Um excelente guia visual com número das peças.'
 date: '2020-12-04T13:53:54'
 author: 'eduardoprox'
 categories: [ Informações técnicas e especificações ]
-image: 'Screenshot_21.png'
+bigimg: [{src: 'Screenshot_21.png'}]
 ---
 
 Nós já temos um guia [aqui com vários códigos e part numbers do RS.](https://sanderors.com/lista-com-o-part-number-codigo-de-cada-peca/)

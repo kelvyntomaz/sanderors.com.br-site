@@ -4,7 +4,7 @@ subtitle: 'Um problema crônico que pode ocorrer no seu RS. Fique ligado.'
 date: '2021-02-07T16:39:55'
 author: 'eduardoprox'
 categories: [ Não categorizado ]
-image: '145106449_4052830644735552_7379015746568784433_n.jpg'
+bigimg: [{src: '145106449_4052830644735552_7379015746568784433_n.jpg'}]
 ---
 
 Um problema recente que diversos proprietários já haviam relatado e tem aparecido com maior frequência é em relação à borracha da tampa da correia. É uma borrachinha que tem risco de com o tempo, soltar e cair na polia com isso causar muito estrago e até atropelamento de válvulas.

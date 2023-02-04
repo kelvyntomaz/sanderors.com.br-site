@@ -4,7 +4,7 @@ subtitle: 'Em poucos passos super simples.'
 date: '2020-06-28T17:58:31'
 author: 'eduardoprox'
 categories: [ Tutorial ]
-image: '1.png'
+bigimg: [{src: '1.png'}]
 ---
 
 O Vanderlei, proprietário o [@white.rs047](http://instagram.com/white.rs047) no instagram, fez um tutorial visual de como desmontar o Spoiler. Muito prático.

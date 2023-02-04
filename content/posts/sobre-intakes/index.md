@@ -4,7 +4,7 @@ subtitle: 'Funciona? Quem já fez? Como fez? Respondemos estas e outras dúvidas
 date: '2019-04-18T19:42:01'
 author: 'eduardoprox'
 categories: [ Performance ]
-image: 'intake2.jpg'
+bigimg: [{src: 'intake2.jpg'}]
 ---
 
 ADENDO DE 2020: Este artigo é de 04/2019. De lá para cá, surgiram opções boas no mercado que alegam comprovar ganhos no dinamômetro, como da Nox e da Race Chrome, ambos com um escudo de proteção. Quando tivermos   

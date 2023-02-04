@@ -4,7 +4,7 @@ subtitle: 'Um quilo de alimento em troca do adesivo do grupo!'
 date: '2020-05-31T01:53:16'
 author: 'eduardoprox'
 categories: [ Encontros ]
-image: 'WhatsApp-Image-2020-05-30-at-20.37'
+bigimg: [{src: 'WhatsApp-Image-2020-05-30-at-20.37'}]
 ---
 
 Com intuito de ajudar ao próximo, o grupo de encontros do RS CWB fez um adesivo onde o preço era um quilo de alimento não perecível.

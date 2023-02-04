@@ -4,7 +4,7 @@ subtitle: 'O Motta, lá da Veneno Performance - que manja muito de RS, fez um v�
 date: '2020-04-01T15:45:16'
 author: 'eduardoprox'
 categories: [ Informações técnicas e especificações ]
-image: '100b1c_377372e9c0874badaf043d93a6a6cf70_mv2.jpg'
+bigimg: [{src: '100b1c_377372e9c0874badaf043d93a6a6cf70_mv2.jpg'}]
 ---
 
 O Motta, lá da Veneno Performance – que manja muito de RS, fez um vídeo muito bom sobre VELAS. 

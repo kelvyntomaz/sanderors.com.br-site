@@ -4,7 +4,7 @@ subtitle: 'Uma nova opção de short shifter para o RS.'
 date: '2021-01-22T20:23:17'
 author: 'eduardoprox'
 categories: [ Câmbio ]
-image: 'WhatsApp-Image-2021-01-22-at-17.16'
+bigimg: [{src: 'WhatsApp-Image-2021-01-22-at-17.16'}]
 ---
 
 O Victor Ayuso, que é um dos caras mais ativos no meio dos RS, lá do canal Ayuso Garage, desenvolveu em parceria com a Saturnino Auto um Short Shifter para o RS. Uma excelente alternativa para quem está procurando um.

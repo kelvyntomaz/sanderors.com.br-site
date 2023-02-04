@@ -4,7 +4,7 @@ subtitle: 'Bonitos e úteis, protegem o parachoque e podem ajudar na aerodinâmi
 date: '2020-07-23T22:23:29'
 author: 'eduardoprox'
 categories: [ Personalização exterior ]
-image: 'image.png'
+bigimg: [{src: 'image.png'}]
 ---
 
 Nessa semana, foram instalados os front splitters da Dredworks no parachoque do RS. São feitos de plástico ABS e, além de servirem para darem um visual esportivo e protegerem o parachoque de algumas raspadinhas, de acordo com o fabricante, também tem finalidade aerodinâmica. Reduz o arrasto provocado pelo vento frontal, gerando *downforce* e melhorando a performance em altas velocidades e curvas acentuadas.

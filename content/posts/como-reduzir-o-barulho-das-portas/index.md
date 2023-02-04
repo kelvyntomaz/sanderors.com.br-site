@@ -4,7 +4,7 @@ subtitle: 'Print 🖨 PDF 📄 eBook 📱'
 date: '2019-03-18T22:59:05'
 author: 'eduardoprox'
 categories: [ Tutorial ]
-image: 'barulhosdestaque.jpg'
+bigimg: [{src: 'barulhosdestaque.jpg'}]
 ---
 
 

@@ -4,7 +4,7 @@ subtitle: 'Imagens do evento na fábrica, para lançamento dos novos Sanderos e 
 date: '2019-07-28T21:06:04'
 author: 'eduardoprox'
 categories: [ Encontros ]
-image: 'IMG-20190727-WA0092.jpg'
+bigimg: [{src: 'IMG-20190727-WA0092.jpg'}]
 ---
 
 Para o lançamento do novo RS, o RS Groupe foi convidado pela Renault para um evento na fábrica. Abaixo, uma coleção de fotos recebidas dos membros do grupo.

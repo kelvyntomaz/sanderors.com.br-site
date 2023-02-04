@@ -4,7 +4,7 @@ subtitle: 'Quer saber tudo que mudou para o modelo 2020 além da traseira?'
 date: '2020-03-13T14:54:30'
 author: 'eduardoprox'
 categories: [ Informações técnicas e especificações ]
-image: 'IMG-20190727-WA0061.jpg'
+bigimg: [{src: 'IMG-20190727-WA0061.jpg'}]
 ---
 
 Bom… como mudou a traseira apenas, nem sei se dá pra chamar de FACE lift. Talvez “backlift”? Enfim, a lista foi compilada pelo RS Groupe Nacional no Whatsapp.

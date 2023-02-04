@@ -4,7 +4,7 @@ subtitle: 'Sabe os faroletes que vem desativados no farol? Aprenda como fazer pa
 date: '2019-03-21T00:22:55'
 author: 'eduardoprox'
 categories: [ Tutorial ]
-image: 'pingos.jpg'
+bigimg: [{src: 'pingos.jpg'}]
 ---
 
 Uma das coisas peculiares do RS é que ele não acende o farolete “pingo”, embora venha com isso no farol. Em seu lugar, temos o   

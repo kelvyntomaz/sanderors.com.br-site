@@ -4,7 +4,7 @@ subtitle: 'Saiba como remover o símbolo da grade dianteira do Sandero.'
 date: '2019-11-21T21:08:03'
 author: 'eduardoprox'
 categories: [ Tutorial ]
-image: '68969900_2323557357765420_8224991624585805824_n.jpg'
+bigimg: [{src: '68969900_2323557357765420_8224991624585805824_n.jpg'}]
 ---
 
 ![](https://sanderors.com/wp-content/uploads/2019/11/simbolofrente.jpg)   

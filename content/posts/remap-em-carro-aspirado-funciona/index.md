@@ -4,7 +4,7 @@ subtitle: 'Motta, da Veneno Performance, fala sobre isso.'
 date: '2020-05-15T20:40:15'
 author: 'eduardoprox'
 categories: [ Performance ]
-image: 'motta.png'
+bigimg: [{src: 'motta.png'}]
 ---
 
 

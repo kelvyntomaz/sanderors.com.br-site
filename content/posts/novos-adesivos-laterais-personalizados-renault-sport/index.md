@@ -4,7 +4,7 @@ subtitle: 'Cansado do adesivo lateral com faixa de corrida. Se liga nessas opç�
 date: '2020-06-28T23:32:05'
 author: 'eduardoprox'
 categories: [ Personalização exterior ]
-image: '106250342_918175532025800_8167217155203887008_o.jpg'
+bigimg: [{src: '106250342_918175532025800_8167217155203887008_o.jpg'}]
 ---
 
 O Leonardo Reis lá do Grupo está fazendo adesivos para venda, conforme as fotos. São opções bem interessantes e mais discretas do que as do modelo original 2015-2019, pré-facelift.

@@ -4,7 +4,7 @@ subtitle: 'Seu capô tem folga? Bate? Aqui a solução.'
 date: '2020-04-13T19:40:36'
 author: 'eduardoprox'
 categories: [ Tutorial ]
-image: 'capô'
+bigimg: [{src: 'capô'}]
 ---
 
 

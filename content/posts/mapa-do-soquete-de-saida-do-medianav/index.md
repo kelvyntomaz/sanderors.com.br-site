@@ -4,7 +4,7 @@ subtitle: 'Perdido para instalar aquele som usando o multimídia original? Segue
 date: '2020-09-21T20:41:24'
 author: 'eduardoprox'
 categories: [ Informações técnicas e especificações ]
-image: 'WhatsApp-Image-2020-09-20-at-22.44'
+bigimg: [{src: 'WhatsApp-Image-2020-09-20-at-22.44'}]
 ---
 
 Tá perdido para instalar aquele som usando o multimídia original? O Moura, lá do grupo, resolveu esse problema para você.

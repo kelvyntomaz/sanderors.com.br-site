@@ -4,7 +4,7 @@ subtitle: 'Saca só!'
 date: '2020-08-21T16:12:10'
 author: 'eduardoprox'
 categories: [ Não categorizado ]
-image: 'camisetasite.png'
+bigimg: [{src: 'camisetasite.png'}]
 ---
 
 Cansado de não encontrar estampas legais, partimos para nós mesmos fazermos algumas.

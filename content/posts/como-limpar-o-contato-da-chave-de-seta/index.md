@@ -4,7 +4,7 @@ subtitle: 'Problemas de mal contato com pisca? Farol piscando sozinho? Esse víd
 date: '2020-06-01T22:25:14'
 author: 'eduardoprox'
 categories: [ Tutorial ]
-image: 'Seta.jpg'
+bigimg: [{src: 'Seta.jpg'}]
 ---
 
 Problemas de mal contato com pisca? Farol piscando sozinho? Esse vídeo te ajuda com o problema.

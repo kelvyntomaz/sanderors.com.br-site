@@ -4,7 +4,7 @@ subtitle: 'Temos um grupo de Whatsapp onde o pessoal discute questões técnicas
 date: '2020-05-31T00:54:06'
 author: 'eduardoprox'
 categories: [ Informações técnicas e especificações ]
-image: 'thumb2.jpg'
+bigimg: [{src: 'thumb2.jpg'}]
 ---
 
 Temos um grupo de Whatsapp onde o pessoal discute questões técnicas do RS e “buracos” de informação que temos no manual original, como: quanto óleo vai no câmbio, qual óleo vai no câmbio, recomendação de manutenção e por aí vai.

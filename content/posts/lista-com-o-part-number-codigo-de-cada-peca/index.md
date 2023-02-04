@@ -4,7 +4,7 @@ subtitle: 'Quer saber o código de alguma peça do RS?'
 date: '2020-07-03T16:28:12'
 author: 'eduardoprox'
 categories: [ Informações técnicas e especificações ]
-image: 'renault-part.png'
+bigimg: [{src: 'renault-part.png'}]
 ---
 
 Cada peça possui um código específico. É difícil saber as do RS por muitas coisas serem diferentes do Sandero normal. O [Igor Parma](https://www.facebook.com/igorparma01?__cft__[0]=AZWxq7x_NLDNGXwjCYQ5qy2M3iTzglhs7X10cV-lMUkeiQBDDB0PSRDh3I6jT37bEh1g1y3HsvVTw6MuIeiVnrFfKMIbWjHoRtCweWSa3HtIJ6Js4msKMgABFXTMBuOZmACZzMnGaHYfTfv3SWyKA3AajOV64qMnGv608jOZ53hGwpEht4xBr5Pntp2bnDGI79E&__tn__=-UC%2CP-R) lá do grupo fez um baita trabalho compilando.

@@ -4,7 +4,7 @@ subtitle: 'Quer saber qual a relação de câmbio, original, do RS? E comparando
 date: '2020-06-25T19:39:23'
 author: 'eduardoprox'
 categories: [ Câmbio ]
-image: 'Relação'
+bigimg: [{src: 'Relação'}]
 ---
 
 E comparando com o câmbio da Duster. Material de autoria do Giovanni Tani.

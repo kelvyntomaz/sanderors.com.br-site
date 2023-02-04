@@ -4,7 +4,7 @@ subtitle: 'Um easy fix realmente muito simples para esse problema.'
 date: '2020-05-31T01:14:43'
 author: 'eduardoprox'
 categories: [ Tutorial ]
-image: 'puxador-1.jpg'
+bigimg: [{src: 'puxador-1.jpg'}]
 ---
 
 O Junio Ferrarezi deu lá no grupo um easy fix realmente muito simples para esse problema. Só cobrir essa parte interna com fita crepe. E fazer o acabamento com um estilete.

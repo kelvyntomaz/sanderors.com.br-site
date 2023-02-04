@@ -4,7 +4,7 @@ subtitle: 'O tutorial é para o Sandero e Logan tradicionais, mas deve se aplica
 date: '2020-05-31T01:31:56'
 author: 'eduardoprox'
 categories: [ Tutorial ]
-image: 'parachoque-sandero-rs-15-16-17-18-orig-rec-D_NQ_NP_806047-MLB27292550478_052018-F.jpg'
+bigimg: [{src: 'parachoque-sandero-rs-15-16-17-18-orig-rec-D_NQ_NP_806047-MLB27292550478_052018-F.jpg'}]
 ---
 
 O tutorial é para o Sandero e Logan tradicionais, mas deve se aplicar o parachoque do RS, também.

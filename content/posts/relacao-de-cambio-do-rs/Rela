@@ -1,0 +1,31 @@
+    <!DOCTYPE html>
+    <html lang="pt-BR">
+    <head>
+        <meta charset="utf-8">
+        <title>Sandero RS</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <!-- General Style -->
+        <style type="text/css">h1, h2, h3, h4, span, li, p, div, a { color: #efcb2c !important; }#colorlib-notfound, #colorlib-notfound .colorlib-notfound-bg {background-image:url("https://sanderors.com/wp-content/uploads/2020/02/sucata-sandero-rs-2016-2016v-manual-6-marc-rs-auto-pecas-D_NQ_NP_847202-MLB25547478498_042017-F.jpg") !important;background-color:#0a0a0a !important;background-repeat:no-repeat;background-size:auto;}.colorlib-copyright {position: absolute;left: 0;right: 0;bottom: 0;margin: 0 auto;
+    text-align: center;
+    }.colorlib-copyright span {opacity: 0.8;}.colorlib-copyright a {opacity: 1;}</style>        <!-- End General Style -->
+        <script src='https://sanderors.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script src='https://sanderors.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel='stylesheet' id='template_01-main-css' href='https://sanderors.com/wp-content/plugins/colorlib-404-customizer/templates/template_01/css/style.css?ver=6.1.1' media='all' />
+<link rel='stylesheet' id='Montserrat-css' href='https://fonts.googleapis.com/css?family=Montserrat%3A500&#038;ver=6.1.1' media='all' />
+<link rel='stylesheet' id='Titillium-css' href='https://fonts.googleapis.com/css?family=Titillium+Web%3A700%2C900&#038;ver=6.1.1' media='all' />
+    </head>
+    <body class="colorlib-body">
+<div id="colorlib-notfound">
+    <div class="colorlib-notfound">
+        <div class="colorlib-notfound-404">
+            <h1>404</h1>
+        </div>
+        <h2 id="colorlib_404_customizer_page_heading">Opa. Se perdeu na curva, essa página não existe.</h2>
+        <div id="colorlib_404_customizer_content">Página não encontrada.</div>
+        <a href="https://sanderors.com"
+           id="colorlib_404_customizer_button_text">Voltar para a home</a>
+    </div>
+    <p class="colorlib-copyright"><span>404 Page Template designed by</span> <a href="https://colorlib.com/" target="_blank">Colorlib.</a></p>
+</div>
+    </body><!-- This template was made by Colorlib (https://colorlib.com) -->
+    </html>

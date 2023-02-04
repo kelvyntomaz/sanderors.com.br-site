@@ -4,7 +4,7 @@ subtitle: 'opinião de quem instalou.'
 date: '2019-11-21T23:02:29'
 author: 'eduardoprox'
 categories: [ Performance ]
-image: 'img_44941-9f67c5e92cf1f0f57715352228814761-1024-1024.jpg'
+bigimg: [{src: 'img_44941-9f67c5e92cf1f0f57715352228814761-1024-1024.jpg'}]
 ---
 
 Há uma semana, agora em novembro 2019, instalei o coletor de aço carbono ordospec. Instalei no [Box 1900](https://www.facebook.com/box1900/) aqui em Curitiba. Usei a fita térmica [Titanium Extreme da MetalHorse.](https://metalhorse.com.br/protecao-termica/fita-termica-termo-tape/extreme/fita-termica-titanium-extreme-mhtt-xtm-15m-termotape.html) Instalei com fita para reduzir a irradiação de calor para a cabine e para evitar dano em peças plásticas como o coletor de admissão.

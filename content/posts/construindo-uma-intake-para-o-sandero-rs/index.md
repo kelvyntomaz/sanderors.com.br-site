@@ -4,7 +4,7 @@ subtitle: 'Nesse vídeo, tem desde resultados, aprendizados, até como montar a 
 date: '2020-05-31T01:22:11'
 author: 'eduardoprox'
 categories: [ Performance ]
-image: '20200101_143505-scaled.jpg'
+bigimg: [{src: '20200101_143505-scaled.jpg'}]
 ---
 
 Nesse vídeo, tem desde resultados, aprendizados, até como montar a sua.
