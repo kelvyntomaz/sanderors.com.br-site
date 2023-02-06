@@ -4,6 +4,7 @@ title = 'Sandero RS'
 theme = 'beautifulhugo'
 preserveTaxonomyNames = true
 paginate = 5
+googleAnalytics = "G-V12HD09RL9"
 
 
 [Params]
@@ -22,6 +23,7 @@ paginate = 5
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
+  gcse = "02e8387c7132a4465"
 
 [[menu.main]]
     name = "Posts"
