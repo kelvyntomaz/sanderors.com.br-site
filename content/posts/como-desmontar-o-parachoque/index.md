@@ -9,7 +9,7 @@ bigimg: [{src: 'parachoque-sandero-rs-15-16-17-18-orig-rec-D_NQ_NP_806047-MLB272
 
 O tutorial é para o Sandero e Logan tradicionais, mas deve se aplicar o parachoque do RS, também.
 
-
+{{< youtube eN2vp-VGink >}}
 
 
 O post [Como desmontar o parachoque?](https://sanderors.com/como-desmontar-o-parachoque/) apareceu primeiro em [Sandero RS](https://sanderors.com).

@@ -7,7 +7,7 @@ categories: [ Tutorial ]
 bigimg: [{src: 'capô'}]
 ---
 
-
+{{ youtube cyscidXHSHA >}}
 
 O post [Como regular o capô?](https://sanderors.com/como-regular-o-capo/) apareceu primeiro em [Sandero RS](https://sanderors.com).
 

@@ -14,21 +14,22 @@ Tá pensando em comprar um RS? Perguntamos lá no grupo do [Renault Sandero RS C
 Abaixo, as cinco mais votadas:
 ------------------------------
 
+{{< youtube A3b4CJhlLcU >}}
 
+{{< youtube O9oiARaxdUY >}}
 
-
-
+{{< youtube YQpQ2JRuYXw >}}
 
 
 
 O Review do ADG, abaixo, é muito elogiado por abordar alguns pontos técnicos.
 
 
-
+{{< youtube Rk9OCeWQd6M >}}
 
 O mais recomendado “hors-concours” foi a avaliação do Barata do Flatout!
 
-
+{{< youtube FE_3LW_Xm4U >}}
 
 
   
@@ -36,7 +37,7 @@ O mais recomendado “hors-concours” foi a avaliação do Barata do Flatout!
   
 **Análise bônus:** 10 perguntas mais comuns e frequentes sobre o RS que aparecem no grupo.
 
-
+{{< youtube fj8SAsc0n3I >}}
 
 
 **Foto da Header do post pelo [Leo Pirão](http://instagram.com/motorframes)**

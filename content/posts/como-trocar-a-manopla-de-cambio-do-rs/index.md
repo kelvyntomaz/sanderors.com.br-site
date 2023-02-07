@@ -12,11 +12,12 @@ Muita gente adora as manoplas originais. Mas nem todos. Existem opções muito l
 
 Este tutorial abaixo é inglês, mas se aplica a quase todos Renaults, especialmente ao RS:
 
-
+{{< youtube Z_NqIZOebiw >}}
 
 
 O Flavio Coragem fez o tutorial abaixo sobre adaptar a manopla de alumínio do RS europeu.
 
+{{< youtube nphIgmcot14 >}}
 
 
 

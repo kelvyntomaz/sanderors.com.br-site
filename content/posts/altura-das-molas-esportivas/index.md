@@ -48,7 +48,7 @@ Ordospec Street
 Ah! Assista também o vídeo do Victor da Ayuso Garage com um breve comparativo dessas molas no RS:
 
 
-
+{{< youtube l2pOEGKzdFs >}}
 
 O post [“Altura” das molas esportivas](https://sanderors.com/altura-das-molas-esportivas/) apareceu primeiro em [Sandero RS](https://sanderors.com).
 

@@ -12,7 +12,7 @@ Por essa foto se vê o local das travas do símbolo, com cuidado dá para coloca
 Vídeo abaixo feito pelo Matheus Wolkning, lá do grupo:
 
 
-
+{{< youtube uNzBZpvUPpc >}} 
 
 O post [Como tirar o simbolo dianteiro?](https://sanderors.com/como-tirar-o-simbolo-dianteiro/) apareceu primeiro em [Sandero RS](https://sanderors.com).
 
