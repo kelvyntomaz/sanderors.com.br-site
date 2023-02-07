@@ -7,7 +7,7 @@ categories: [ Tutorial ]
 bigimg: [{src: 'painel.jpg'}]
 ---
 
-
+{{< youtube NxO7pgtxp_w >}}
 
 O post [Tutorial de como tirar alguns barulhos do painel](https://sanderors.com/como-tirar-alguns-barulhos-do-painel/) apareceu primeiro em [Sandero RS](https://sanderors.com).
 

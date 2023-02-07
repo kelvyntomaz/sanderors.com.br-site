@@ -9,7 +9,7 @@ bigimg: [{src: 'Screenshot_28.png'}]
 
 Só aproveitar para recomendar um canal gringo muito bacana, o canal da Laura Gallego. Tem vários “faça você mesmo” muito interessantes, como esse retrabalho que ela faz na TBI e no coletor de admissão.
 
-
+{{< youtube c1uk6ZiSI2s >}}
 
 
 O post [Canal da Laura Gallego](https://sanderors.com/canal-da-laura-gallego/) apareceu primeiro em [Sandero RS](https://sanderors.com).

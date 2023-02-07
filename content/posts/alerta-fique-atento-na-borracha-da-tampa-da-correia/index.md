@@ -17,7 +17,7 @@ O que acontece é que, com tempo, essa borracha vai soltando e pode vir parar aq
 ![](145106449_4052830644735552_7379015746568784433_n.jpg)
 O canal High Torque inclusive fez um video explicando um pouco em detalhes:
 
-
+{{< youtube NoArNPkwkq4 >}}
 
 
 Se o seu carro estiver com em torno de 4-5 anos, aproveite para na próxima revisão pedir para remover esta borrachinha. Um dos membros do grupo, o Anderson Lima, foi responsável pelas fotos e postou o seguinte. Caso você queira tentar em casa:

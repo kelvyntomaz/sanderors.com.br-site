@@ -7,7 +7,7 @@ categories: [ Tutorial ]
 bigimg: [{src: 'barulhosdestaque.jpg'}]
 ---
 
-
+{{< youtube TRwprpnubBQ >}}
 
 O post [Como reduzir o barulho das portas?](https://sanderors.com/como-reduzir-o-barulho-das-portas/) apareceu primeiro em [Sandero RS](https://sanderors.com).
 

@@ -23,7 +23,7 @@ Toooodo dia aparece nos grupo alguém pensando em comprar com as mesmas dúvidas
 [00:18:16](https://www.youtube.com/watch?v=fj8SAsc0n3I&t=1096s) 10 e meio. Estou entre um RS, um Polo TSI e um UP TSI
 
 
-
+{{< youtube fj8SAsc0n3I >}}
 
 O post [Quer comprar um RS? 10 pontos e dúvidas.](https://sanderors.com/quer-comprar-um-rs-10-pontos-e-duvidas/) apareceu primeiro em [Sandero RS](https://sanderors.com).
 

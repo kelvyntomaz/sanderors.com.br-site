@@ -12,7 +12,7 @@ bigimg: [{src: '44795369_721970401472294_1929318078370283520_n.jpg'}]
 
 Agradecimentos o Frota do grupo do Whats por ter me ensinado. 
 
-
+{{< youtube b2vExinfvpY >}}
 
 
 O post [Tutorial para tirar o barulho da válvula anti-chama.](https://sanderors.com/tutorial-limpeza-da-valvula-anti-chama/) apareceu primeiro em [Sandero RS](https://sanderors.com).
