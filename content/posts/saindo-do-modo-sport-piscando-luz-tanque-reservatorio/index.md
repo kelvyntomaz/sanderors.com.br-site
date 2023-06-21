@@ -4,7 +4,7 @@ subtitle: 'Uma solução para esse problema'
 date: '2023-06-20T11:38:00'
 author: 'KelvynTomaz'
 categories: [ Duvidas ]
-bigimg: [{src: ''}]
+bigimg: [{src: 'modulo.jpg'}]
 ---
 
 Se o Seu Sandero começou a fazer esse problema, pode ser algo relacionado a ECU do seu RS!.
